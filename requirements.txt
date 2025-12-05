@@ -1,0 +1,5 @@
+# requirements.txt
+# ==================
+# This project primarily uses basic Python features.
+# If running in a Jupyter environment, the following might be useful:
+jupyter
