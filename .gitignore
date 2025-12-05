@@ -1,0 +1,26 @@
+# .gitignore
+# ===============
+# Common Python files to ignore
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.tox/
+.venv/
+venv/
+
+# Jupyter Notebook specific files to ignore
+.ipynb_checkpoints/
+
+# IDE specific files to ignore (e.g., VS Code)
+.vscode/
+
+# Operating System files
+.DS_Store
+thumbs.db
+
+# Data files that might be generated or are too large for version control
+*.csv
+*.xlsx
+*.pkl
+*.hdf5
